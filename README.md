@@ -44,3 +44,5 @@ That's it, you're done! Please be ready to answer if there happens to be somethi
 After I verify your submission and implement it you can be sure I will list your name in the "About" section of the launcher.
 
 Translations may need updating in the future as I keep adding and changing things so I'd be eternally grateful if you keep being subscribed to the issue so that you receive notifications whenever I need more help.
+
+## Maint
